@@ -1,2 +1,2 @@
 # macey_short
- my personal portfolio
+This is my personal portfolio that I created with the aid of a template.
